@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... smlkrdas@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I have a black belt at Taekwondo
+- ⚡ Fun fact: ... I have a black belt in Taekwondo
