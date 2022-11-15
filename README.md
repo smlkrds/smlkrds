@@ -7,5 +7,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Django
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... smlkrdas@gmail.com
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have a black belt in Taekwondo
