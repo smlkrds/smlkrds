@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... smlkrdas@gmail.com
 - ⚡ Fun fact: ... I have a black belt in Taekwondo
+
+- Codewars: https://www.codewars.com/users/samilkardas
