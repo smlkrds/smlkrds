@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: smlkrdas@gmail.com
 - ⚡ Fun fact: I have a black belt in Taekwondo
 - Codewars: https://www.codewars.com/users/samilkardas
+- CS50 Certificate: https://cs50.harvard.edu/certificates/b2e76388-d584-4b6d-bfb5-0a888adabca3
