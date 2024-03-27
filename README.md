@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning SignalR
-- 🤔 I’m looking for help with SignalR
+- 🌱 I’m currently learning GraphQL
+- 🤔 I’m looking for help with GraphQL
 - 💬 Ask me about anything
 - 📫 How to reach me: smlkrdas@gmail.com
 - ⚡ Fun fact: I have a black belt in Taekwondo
