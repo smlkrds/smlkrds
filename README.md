@@ -3,8 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning GraphQL
-- 🤔 I’m looking for help with GraphQL
+- 🌱 I’m currently learning Temporal
 - 💬 Ask me about anything
 - ⚡ Fun fact: I have a black belt in Taekwondo
 - LeetCode: https://leetcode.com/smlkrds/
