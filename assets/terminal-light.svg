@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="366" viewBox="0 0 820 366">
+<style>
+text{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace;font-size:15px;fill:#1f2328}
+.l{opacity:0;animation:in .4s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<defs><clipPath id="type"><rect x="0" y="60" height="30" width="0">
+<animate attributeName="width" from="0" to="820" begin=".3s" dur="1.4s" fill="freeze"/></rect></clipPath></defs>
+<rect x=".5" y=".5" width="819" height="365" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="410" y="27" text-anchor="middle" fill="#656d76" style="font-size:12px;fill:#656d76">samil@istanbul: ~</text>
+<line x1="0" y1="44" x2="820" y2="44" stroke="#d0d7de"/>
+<text x="28" y="80" clip-path="url(#type)" xml:space="preserve"><tspan fill="#1a7f37">❯</tspan> dotnet run --project <tspan fill="#8250df">Samil.Profile</tspan></text>
+<text x="28" y="114" class="l" style="animation-delay:1.90s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Location ......</tspan> <tspan fill="#1f2328">Istanbul, TR</tspan></text>
+<text x="28" y="142" class="l" style="animation-delay:2.25s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Role ..........</tspan> <tspan fill="#1f2328">.NET Backend Engineer</tspan></text>
+<text x="28" y="170" class="l" style="animation-delay:2.60s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Domains .......</tspan> <tspan fill="#1f2328">IoT · Fleet Telematics · E-Invoicing</tspan></text>
+<text x="28" y="198" class="l" style="animation-delay:2.95s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Repos .........</tspan> <tspan fill="#1f2328">—</tspan></text>
+<text x="28" y="226" class="l" style="animation-delay:3.30s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Languages .....</tspan> <tspan fill="#1f2328">C# · Python · SQL</tspan></text>
+<text x="28" y="254" class="l" style="animation-delay:3.65s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Last push .....</tspan> <tspan fill="#1f2328">—</tspan></text>
+<text x="28" y="282" class="l" style="animation-delay:4.00s" xml:space="preserve"><tspan fill="#9a6700">warn</tspan><tspan fill="#656d76">: Coffee ........</tspan> <tspan fill="#9a6700">degraded</tspan></text>
+<g class="l" style="animation-delay:4.65s">
+<text x="28" y="320" xml:space="preserve"><tspan fill="#1a7f37">❯</tspan> ready</text>
+<rect x="98" y="307" width="9" height="17" fill="#1f2328" class="cur"/></g>
+<text x="792" y="352" text-anchor="end" style="font-size:11px;fill:#656d76">synced 2026-11-13 22:53 UTC</text>
+</svg>
