@@ -18,10 +18,10 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace;font-size
 <text x="28" y="170" class="l" style="animation-delay:2.60s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Domains .......</tspan> <tspan fill="#1f2328">IoT · Fleet Telematics · E-Invoicing</tspan></text>
 <text x="28" y="198" class="l" style="animation-delay:2.95s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Repos .........</tspan> <tspan fill="#1f2328">10 public · 0 ★</tspan></text>
 <text x="28" y="226" class="l" style="animation-delay:3.30s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Languages .....</tspan> <tspan fill="#1f2328">Python 96% · HTML 1% · JavaScript 1%</tspan></text>
-<text x="28" y="254" class="l" style="animation-delay:3.65s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Last push .....</tspan> <tspan fill="#1f2328">smlkrds · 10h ago</tspan></text>
+<text x="28" y="254" class="l" style="animation-delay:3.65s" xml:space="preserve"><tspan fill="#0969da">info</tspan><tspan fill="#656d76">: Last push .....</tspan> <tspan fill="#1f2328">smlkrds · 13h ago</tspan></text>
 <text x="28" y="282" class="l" style="animation-delay:4.00s" xml:space="preserve"><tspan fill="#9a6700">warn</tspan><tspan fill="#656d76">: Coffee ........</tspan> <tspan fill="#9a6700">degraded</tspan></text>
 <g class="l" style="animation-delay:4.65s">
 <text x="28" y="320" xml:space="preserve"><tspan fill="#1a7f37">❯</tspan> ready</text>
 <rect x="98" y="307" width="9" height="17" fill="#1f2328" class="cur"/></g>
-<text x="792" y="352" text-anchor="end" style="font-size:11px;fill:#656d76">synced 2026-11-26 08:12 UTC</text>
+<text x="792" y="352" text-anchor="end" style="font-size:11px;fill:#656d76">synced 2026-11-26 21:28 UTC</text>
 </svg>
